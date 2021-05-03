@@ -1,1 +1,0 @@
-# kannakinatsenet.github.io
