@@ -22,6 +22,9 @@ Check out the webpage [here](https://kannakinatsenet.github.io/Tribute-Page/) !!
 
 
 
+### Spread the word
+Liked the project? Just give it a :star:. <br/>
+Thank you. :blush:
 
 
 #### References
